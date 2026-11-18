@@ -1,7 +1,7 @@
 # The Sample Mean Minimizes Squared Error: A Lean 4 Formalization
 
 STAT 4052, Fall 2026 · Midterm Lean 4 Project
-Authors: Preston Perrill, Ani Vandrevu, Tonhy Park, Younus Ali
+Authors: Preston Perrill, Ani Vandrevu, Tony Park, Younus Ali
 
 **Submitted version:** release `v1.0-submission`
 
