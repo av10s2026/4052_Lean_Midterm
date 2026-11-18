@@ -1,7 +1,7 @@
 /-
-Copyright (c) 2026 Preston Perrill, Ani Vandrevu, Tonhy Park, Younus Ali. All rights reserved.
+Copyright (c) 2026 Preston Perrill, Anirudh Vadrevu, Tony Park, Younus Ali. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
-Authors: Preston Perrill, Ani Vandrevu, Tonhy Park, Younus Ali
+Authors: Preston Perrill, Anirudh Vadrevu, Tony Park, Younus Ali
 -/
 
 import Mathlib
