@@ -25,7 +25,7 @@ and the standard Lean/mathlib foundations.
 `Classical.choice`, and `Quot.sound` (Lean's standard foundations).
 
 ## What is verified
-Lean checks results 1 and 2 above for any finite list of real numbers with
+Lean checks results 1 and 2 above for any n real observations with
 n ≥ 1. Nothing is assumed beyond these hypotheses. The development contains
 no `sorry` or `admit`.
 
